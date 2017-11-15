@@ -9,7 +9,7 @@
 <body>
 <?php
 //print_r($_POST);
-echo('Pozdrav, ' . $_POST['prezime'] . $_POST['ime']);
+echo('Pozdrav, ' . $_POST['prezzzzime'] . $_POST['ime']);
 ?>
 </body>
 
